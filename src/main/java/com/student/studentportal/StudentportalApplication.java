@@ -7,7 +7,6 @@ import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
 @EntityScan(basePackages = "com.student.studentportal.Entity")
-
 public class StudentportalApplication {
 
 	public static void main(String[] args) {
